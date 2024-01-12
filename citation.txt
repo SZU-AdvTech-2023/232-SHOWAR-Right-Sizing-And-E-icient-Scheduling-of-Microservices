@@ -1,0 +1,7 @@
+@inproceedings{REPO232,
+    author = "Baarzi, Ataollah Fatahi and Kesidis, George",
+    booktitle = "Proceedings of the ACM Symposium on Cloud Computing",
+    pages = "427--441",
+    title = "{SHOWAR: Right-Sizing And Effcient Scheduling of Microservices}",
+    year = "2021"
+}
